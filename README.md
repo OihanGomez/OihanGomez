@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Oihan
 
-### 💻 Estudiante de Desarrollo Web en Zubiri Manteo
+### 💻 Estudiante de Desarrollo Web
 
-Soy un estudiante apasionado por la tecnología y el desarrollo web. Actualmente, estoy en la clase DW32 en Zubiri Manteo, donde continúo mejorando mis habilidades en programación y despliegue de aplicaciones.
+Soy un estudiante apasionado por la tecnología y el desarrollo web. Actualmente, continúo mejorando mis habilidades en programación y despliegue de aplicaciones.
 
 ---
 
