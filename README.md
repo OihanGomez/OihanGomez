@@ -8,5 +8,3 @@
 - HTML, CSS, JavaScript, React
 - Java, PHP, Laravel
 - Git y GitHub para control de versiones
-- 
----
